@@ -257,3 +257,8 @@ body{
     width: 8rem;
     height: 3rem;
 }
+.nav-link{
+    color: black !important;
+    font-weight: 600 !important;
+
+}
